@@ -1,10 +1,28 @@
 January -> 
   
-  worked on implementing Docker, git in projects
-  worked on implementing Vector search, NLP, sentence tranformers, model training and use
+  worked on implementing Docker, git in projects.
+  worked on implementing Vector search, NLP, sentence tranformers, model training and use.
 
 February ->
 
   worked on parsing resumes using ollama, llama3, embedding models, reranking models, and vector search.
-  worked on UI development for RAGAGENTIC
+  worked on UI development for RAGAGENTIC.
   
+March ->
+
+  worked on UI development for RAGAGENTIC.
+
+April -> 
+
+  worked on designing RAGAGENTIC UI.
+  Created a dashboard and reporting tool for BookScraping project (ZUESSN).
+  support for CHVDE and CHVCM project.
+
+May -> 
+
+  continued development and designing for RAGAGENTIC UI.
+  BookScraping project Dashboard designing and deployment Done.
+
+June -> 
+
+  continued development and desinging for RAGAGENTIC UI.
