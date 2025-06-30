@@ -26,3 +26,4 @@ May ->
 June -> 
 
   continued development and desinging for RAGAGENTIC UI.
+  BookScraping project : added booksource google_1
