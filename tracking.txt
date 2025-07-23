@@ -27,3 +27,8 @@ June ->
 
   continued development and desinging for RAGAGENTIC UI.
   BookScraping project : added booksource google_1
+
+July ->
+
+  development done for RAGAGENTIC UI.
+  Started working on fine tuning YOLO models for identification of text pdf components.
