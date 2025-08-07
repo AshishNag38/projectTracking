@@ -32,6 +32,7 @@ July ->
 
   development done for RAGAGENTIC UI.
   Started working on fine tuning YOLO models for identification of text pdf components.
+  Added 2FA for both RAGAGENTIC UI and Bookscraping Report.
 
 August ->
 
