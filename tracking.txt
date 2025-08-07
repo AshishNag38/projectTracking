@@ -32,3 +32,9 @@ July ->
 
   development done for RAGAGENTIC UI.
   Started working on fine tuning YOLO models for identification of text pdf components.
+
+August ->
+
+  RnD on fine tuning YOLO models to identify different components of pdf files.
+  7th : upgraded SSD to 512GB
+
